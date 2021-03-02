@@ -47,6 +47,7 @@ Please use the wireframe as a guide.
 5. You must add acceptance specs (end-to-end) like Cypress.
 6. You must version your work using Git and the repository must be private (Do not make one commit with all of your work, we need to see your work in logical commits to follow your work logic)
 7. All your commits must be in english.
+8. **When you finish your test you need to send an email to vempraneo@neomed.tech with the subject "ANGULAR CHALLENGE - < YOUR NAME >"**
 
 ### Nice to have
 1. Deploy your solution somewhere like Heroku or Netlify.
